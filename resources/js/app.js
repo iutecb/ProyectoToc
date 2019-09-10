@@ -10,7 +10,6 @@ window.Vue = require('vue');
 import axios from 'axios'
 import pictureInput from 'vue-picture-input'
 
-
 // axios.interceptors.request.use(
 // 	request => {
 // 		request.headers.common = {

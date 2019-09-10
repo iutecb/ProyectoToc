@@ -130,6 +130,53 @@
                             <div class="row">
                                 <div class="col">
                                     <archivos></archivos>
+                                    <div class="card mb-4">
+                                        <div class="card-header">
+                                            Item
+                                        </div><!--card-header-->
+
+                                        <div class="card-body">
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non qui facilis deleniti expedita fuga ipsum numquam aperiam itaque cum maxime.
+                                        </div><!--card-body-->
+                                    </div><!--card-->
+                                </div><!--col-md-6-->
+
+                                <div class="col">
+                                    <div class="card mb-4">
+                                        <div class="card-header">
+                                            Item
+                                        </div><!--card-header-->
+
+                                        <div class="card-body">
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non qui facilis deleniti expedita fuga ipsum numquam aperiam itaque cum maxime.
+                                        </div><!--card-body-->
+                                    </div><!--card-->
+                                </div><!--col-md-6-->
+
+                                <div class="w-100"></div>
+
+                                <div class="col">
+                                    <div class="card mb-4">
+                                        <div class="card-header">
+                                            Item
+                                        </div><!--card-header-->
+
+                                        <div class="card-body">
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non qui facilis deleniti expedita fuga ipsum numquam aperiam itaque cum maxime.
+                                        </div><!--card-body-->
+                                    </div><!--card-->
+                                </div><!--col-md-6-->
+
+                                <div class="col">
+                                    <div class="card mb-4">
+                                        <div class="card-header">
+                                            Item
+                                        </div><!--card-header-->
+
+                                        <div class="card-body">
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non qui facilis deleniti expedita fuga ipsum numquam aperiam itaque cum maxime.
+                                        </div><!--card-body-->
+                                    </div><!--card-->
                                 </div><!--col-md-6-->
                             </div><!--row-->
                         </div><!--col-md-8-->
